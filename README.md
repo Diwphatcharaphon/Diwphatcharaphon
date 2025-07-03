@@ -1,4 +1,4 @@
-<h1 align="center">👋 สวัสดีครับ ผมคือ [พัชรพล สมศรีชัย]</h1>
+<h1 align="center">🤓 สวัสดีครับ ผมชื่อ [Phatcharaphon Somsrichai ]</h1>
 
 <p align="center">
 🚀 นักศึกษาวิศวกรรมคอมพิวเตอร์<br>
@@ -7,7 +7,7 @@
 
 ---
 
-🧠 เกี่ยวกับผม
+About Me
 
 - 🔭 ตอนนี้กำลังเรียนวิชา **ENGCC304**
 - 🌱 ฝึกเขียนโค้ด + ใช้ GitHub แบบจริงจัง
@@ -16,7 +16,7 @@
 
 ---
 
- 🛠️ ภาษา & เครื่องมือที่ใช้
+ Languages & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
@@ -25,7 +25,7 @@
 
 ---
 
-📈 GitHub Stats
+GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
@@ -33,12 +33,12 @@
 
 ---
 
-🐛 คำคมจาก Dev:
+Dev Quote:
 
 > “เจอบั๊กไม่ต้องตกใจ แค่หายใจ แล้วลอง restart ”
 
 ---
- 📫 ติดต่อฉัน
+  Contact
  
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/diw.phatcharaphon?)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dewdeeggeiei@gmail.com)
