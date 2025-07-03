@@ -25,14 +25,6 @@ About Me
 
 ---
 
-GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
 Dev Quote:
 
 > “เจอบั๊กไม่ต้องตกใจ แค่หายใจ แล้วลอง restart ”
